@@ -1,1 +1,2 @@
-# 2021-Bootstrap-5-Walkthrough-With-Brad-Traversy
+1. Coding thorugh another walk through from Brad Traversy - this time using Bootstrap 5.  It's my first deep dive into Bootstrap and so far it's pretty intuitive and straight forward. I don't think I'll use Bootstrap much unless I end up in a role where I'm pumping out mulitple client sites where speed and repeatition is the goal. Even then, I would probably build my own templates to pick up and run with.
+2. That being said, the hamburger menu wasn't working at first because I somehow downloaded the wrong CDN for Bootstrap 4 instead of 5. Will need to check link naming to verify just in case in the future. Finished half the site today.
